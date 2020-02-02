@@ -11,12 +11,10 @@ answer = list(WordList[0])
 
 display = []
 
-#new
 used =[]
 # add independent vairables/letters into this display
 display.extend(answer)
 
-#new
 used.extend(display)
 print(display)
 
