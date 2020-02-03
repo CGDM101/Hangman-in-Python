@@ -1,6 +1,6 @@
 import random
 
-WordList = ['hello', "pink", "programming", "python"]
+WordList = ["hello", "pink", "programming", "python"]
 random.shuffle(WordList)
 print("WordList after shufflled", WordList)
 
